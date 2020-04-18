@@ -1,0 +1,4 @@
+bow-name: '&f[&eTeleport&aBow&f]'
+bow-description: '&6Лук телепорт!'
+teleported-message: '&aВаууу'
+give-bow-on-join: true

@@ -1,0 +1,10 @@
+name: TeleportBow
+version: ${project.version}
+main: ru.lion.Main
+authors: [Markiz]
+commands:
+  tpbow:
+    description: Spawn a teleport bow
+    usage: /<command>
+    aliases:
+      - teleportbow
